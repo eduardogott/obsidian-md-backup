@@ -1,0 +1,32 @@
+---
+creation date: <% tp.file.creation_date("Do MMMM YYYY") %>
+edit date: <% tp.file.last_modified_date("Do MMMM YYYY HH:mm:ss") %>
+people involved:
+tags:
+---
+
+## 🧩 What Happened
+Describe the event or situation. Be factual, without judging it yet.  
+→ What triggered this feeling? Who was involved? What was said or done?
+
+---
+
+## 🧠 What I Felt/Thought
+What thoughts came to your mind?  
+→ Any recurring ideas, worries, or interpretations?  
+→ Are there assumptions that might not be true?  
+→ What part of the situation do you keep replaying?
+
+---
+
+## 🌤️ What It Might Mean
+Step back a little:  
+→ Why might this affect me so much?  
+→ Does it remind me of past experiences?  
+→ What value or expectation was violated here?
+
+---
+
+## 🕯️ Reflection Tag
+- [ ] Mark this entry as “resolved” once you feel you’ve processed it.  
+- Link to related entries with `[[feelings/...]]` if this connects to older moments.
