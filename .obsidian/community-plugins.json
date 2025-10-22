@@ -3,5 +3,7 @@
   "obsidian-kanban",
   "obsidian-linter",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "sheets",
+  "obsidian-plugin-toc"
 ]

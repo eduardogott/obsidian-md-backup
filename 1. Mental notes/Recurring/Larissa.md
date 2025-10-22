@@ -7,7 +7,7 @@ tags:
 ---
 
 # 💫 Feeling: 
-> She's an old fried that I keep remembering of.
+> She's an old friend that I keep remembering of.
 
 ---
 
@@ -35,7 +35,7 @@ Reflect on deeper meaning and roots.
 ---
 
 ## 🔁 Entries Log
-*(Use this section to link to events in events log.)*  
+[[11-10-2025 - Larissa]] \~ 11/10/2025 
 
 ### 2025-10-13
 > *(Write freely about how this feeling came up today — what triggered it, what you noticed, how intense it was, how you responded. You can use your signature template here too.)*

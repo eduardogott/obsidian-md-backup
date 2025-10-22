@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5eaada86452fa82",
+        "id": "b2e017f7af4bd5b5",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e75911489f7713",
+            "id": "d90b9caeb83a5a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mental notes/Recurring/Larissa.md",
+                "file": "1. Mental notes/Events/11-10-2025 - Larissa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Larissa"
+              "title": "11-10-2025 - Larissa"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental notes/Recurring/Larissa.md",
+                "file": "1. Mental notes/Events/11-10-2025 - Larissa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Larissa"
+              "title": "Backlinks for 11-10-2025 - Larissa"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental notes/Recurring/Larissa.md",
+                "file": "1. Mental notes/Events/11-10-2025 - Larissa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Larissa"
+              "title": "Outgoing links from 11-10-2025 - Larissa"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental notes/Recurring/Larissa.md",
+                "file": "1. Mental notes/Events/11-10-2025 - Larissa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Larissa"
+              "title": "Outline of 11-10-2025 - Larissa"
             }
           },
           {
@@ -178,33 +178,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3e75911489f7713",
+  "active": "d90b9caeb83a5a14",
   "lastOpenFiles": [
-    "Mental notes/Events/11-10-2025 - Larissa.md",
-    "Mental notes/Recurring/Larissa.md",
-    "Views/Mental notes views.md",
-    "Views",
+    "Untitled 1.md",
+    "1. Mental notes/Events/11-10-2025 - Larissa.md",
+    "2. Random/2. League formats/League format (6 div, multiple cups).md",
+    "2. Random/2. League formats/State league format (3. div).md",
+    "2. Random/Random To-do.md",
+    "2. Random/Random Notes.md",
+    "2. Random/2. League formats",
+    "1. Mental notes/Recurring/Larissa.md",
+    "3. Other (functional)/Views/Mental notes views.md",
     "Untitled.base",
-    "Templates/~~~~.md",
-    "Templates/mental health event.md",
-    "Templates/mental health recurring.md",
-    "Mental notes/Recurring",
-    "Mental notes/Events",
+    "2. Random/1. Recipes/Nanaimo bar.md",
+    "3. Other/Untitled",
+    "2. Random/1. Recipes",
+    "3. Other (functional)/Templates/mental health recurring.md",
+    "3. Other (functional)/Templates/~~~~.md",
+    "3. Other/Links for Graph/Events.md",
+    "3. Other/Links for Graph/Templates.md",
+    "3. Other/Links for Graph/Recurring.md",
+    "3. Other/Links for Graph/Random.md",
+    "3. Other/Links for Graph/Mental notes.md",
+    "3. Other/Links for Graph/Untitled",
+    "3. Other (functional)/Templates/mental health event.md",
+    "3. Other/Links for Graph",
+    "toc.md",
+    "3. Other (functional)",
+    "2. Random",
+    "3. Other (functional)/Views",
+    "1. Mental notes/Recurring",
     "Untitled Kanban.md",
-    "Templates",
     "2025-10-13.md",
     "Untitled.canvas",
-    "Untitled 12.base",
-    "Untitled 15.base",
-    "Untitled 14.base",
-    "Untitled 13.base",
-    "Untitled 11.base",
     "2025-09-24.md",
     "clóvis.md"
   ]
